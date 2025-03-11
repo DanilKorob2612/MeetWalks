@@ -1,23 +1,19 @@
 import 'package:flutter/material.dart';
-import 'features/home/screens/homescreen.dart';
+import 'features/home/screens/home_screen.dart';
 import 'theme.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const Meetwalks());
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+class Meetwalks extends StatelessWidget {
+  const Meetwalks({super.key});
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
       theme: theme,
-      home: const MyHomePage(title: 'MeetWalks'),
+      home: const HomeScreen(),
     );
   }
 }
-
-
-

@@ -1,0 +1,2 @@
+D:/Apps/MeetWalks/android/app/.cxx/Debug/455o4j2n/x86/CMakeFiles/edit_cache.dir
+D:/Apps/MeetWalks/android/app/.cxx/Debug/455o4j2n/x86/CMakeFiles/rebuild_cache.dir
